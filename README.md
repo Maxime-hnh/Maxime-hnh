@@ -9,7 +9,7 @@
 🌱 I'm currently learning React, Node, Docker, ...
 
 
-💬 I am 29 years old, passionate about travel, and used to travel a lot. Therefore, I worked in tourism, among other things... Today, I am adding a new passion to my repertoire: web development. 
+💬 Passionate about travel, and used to travel a lot. Therefore, I worked in tourism, among other things... Today, I am adding a new passion to my repertoire: web development. 
 
 
 :hourglass_flowing_sand: 20/07/2023 : In an internship at the start-up Okolo (https://okolo.fr) for a duration of 4 months.
