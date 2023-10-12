@@ -1,4 +1,4 @@
-![sequelizejs-ar21](https://github.com/Maxime-hnh/Maxime-hnh/assets/118843971/1c91961f-c4fc-4f49-9605-4c2dc3d34f3a)# :man_technologist: :wave: Hi I'm Maxime Huynh
+:man_technologist: :wave: Hi I'm Maxime Huynh
 
  :rocket: I started web development in September 2022, definitely loving it! Can't wait to learn more, go further and see where it brings me!
 
