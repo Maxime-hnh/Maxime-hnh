@@ -28,24 +28,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs28" />
-  <sodipodi:namedview
-     id="namedview28"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8.9083333"
-     inkscape:cx="74.593078"
-     inkscape:cy="30.028064"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
   <style
      id="style1"><![CDATA[.D{fill:#2f406a}.E{fill:#2379bd}.F{fill:#03afef}]]></style>
   <path
