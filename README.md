@@ -1,6 +1,6 @@
 # :man_technologist: :wave: Hi I'm Maxime Huynh
 
- :rocket: Joined this game in September 2022, definitely loving it! Can't wait to learn more, go further and see where it brings me!
+ :rocket: I started web development in September 2022, definitely loving it! Can't wait to learn more, go further and see where it brings me!
 
 
 :hearts: Why didn't I start earlier?? As a new enthusiast of web development, I'm thirsty for knowledge, and I try to improve a little more every day!
