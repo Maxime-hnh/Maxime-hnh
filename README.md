@@ -15,7 +15,6 @@
 :hourglass_flowing_sand: 20/07/2023 : In an internship at the start-up Okolo (https://okolo.fr) for a duration of 6 months.
 
 
-![Uploading sequeli<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="120"
    height="60"
