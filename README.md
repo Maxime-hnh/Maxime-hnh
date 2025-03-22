@@ -63,7 +63,7 @@ Built with **React.js**, **Firebase Auth**, and external APIs for real-time pric
 
 Got a project or just want to connect?  
 📧 **[me.maxime.dev@gmail.com](mailto:kodana.developpement@gmail.com)**  
-🔗 **[LinkedIn](www.linkedin.com/in/maxime-huynh1993/)** *(replace with your actual link)*
+🔗 **[LinkedIn](www.linkedin.com/in/maxime-huynh1993/)**
 
 ---
 
