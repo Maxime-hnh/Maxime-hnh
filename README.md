@@ -1,4 +1,4 @@
-# 👨‍💻 Maxime – Full Stack Developer (React.js / Node.js)
+# 👨‍💻 Maxime – Full Stack Developer 
 
 Hi there! I'm **Maxime**, a **Full Stack Developer** with 3 years of experience, specialized in **Typescript**.
 
