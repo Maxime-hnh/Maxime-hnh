@@ -23,7 +23,7 @@ Hi there! I'm **Maxime**, a **Full Stack Developer** with 3 years of experience,
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Projects
 
 
 🔗 [My portfolio](https://maxime-huynh.kodanalab.fr/fr)
