@@ -35,7 +35,6 @@ Hi there! I'm **Maxime**, a **Full Stack Developer** with 3 years of experience,
 
 ## 📬 Get in Touch
 
-Got a project or just want to connect?  
 📧 **[kodana.developpement@gmail.com](mailto:kodana.developpement@gmail.com)**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/maxime-huynh1993/)**
 
