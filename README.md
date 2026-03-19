@@ -1,61 +1,35 @@
 # 👨‍💻 Maxime – Full Stack Developer (React.js / Node.js)
 
-Hi there! I'm **Maxime**, a **Full Stack Developer** with 2 years of experience, specialized in **ReactJS** and **NodeJS**.
+Hi there! I'm **Maxime**, a **Full Stack Developer** with 3 years of experience, specialized in **Typescript**.
 
-🚀 After an exciting journey at the startup **Okolo**, I’m now diving into the world of **freelancing** to help companies bring their **digital projects** to life.
-
----
-
-## 💼 My Background
-
-Before web development, I explored various professional paths:
-- ...
-- ⛴️ Steward 
-- ☎️ Call Center Agent  
-- 🌍 Sales Rep in the Tourism Industry  
-
-These experiences taught me **adaptability** and shaped my **people skills**.
-
----
-
-## 🔁 A Career Change That Changed Everything
-
-Almost **3 years ago**, I made a life-changing decision:  
-🎯 **To retrain in tech.**
-
-It turned out to be the **best professional decision** I’ve ever made.  
-I discovered a **true passion** — one I now dedicate to helping businesses grow.
-
----
-
-## 🛠️ Main Skills
 
 ### 👨‍💻 Development
 - **Frontend**: React.js, Next.js ⚛️  
 - **Backend**: Node.js, Express, Nest, Java, Spring Boot 🚀
-- **ORMs**: Sequelize, Prisma, Hibernate 🔄  
-- **Database**: PostgreSQL 🐘
+- **ORMs**: Sequelize, Prisma, Hibernate, Mongoose 🔄  
+- **Database**: PostgreSQL, MongoDB, MySQL 🐘
 
 ### 🔧 Architecture & Infrastructure
-- **Microservices Communication**: RabbitMQ 📬  
-- **Authentication**: JWT, Firebase, Keycloak 🔐  
+- **Microservices Communication**: RabbitMQ, Pulsar 📬  
+- **Authentication**: JWT, Firebase, Keycloak, Better-auth 🔐  
 - **DevOps & Cloud**: Docker, OVH Cloud ☁️  
 - **Versioning & CI/CD**: Git, GitHub 🧠  
 
 ### 🔄 APIs & Integrations
 - **Google Cloud Translate V2** 🌐  
-- **OpenAI (GPT-4)** 🤖  
-- **eBay API** (product search, listings, offers) 🛒  
+- **OpenAI** 🤖  
+- **eBay API** (product search, listings, offers) 🛒
+- **Ministral**
 
 ---
 
 ## 🌟 Featured Project
 
-### [PokeTrack – Track Your Pokémon Collection](https://poke-track.netlify.app/)
-A web app to manage your **Pokémon card collection**, visualize price trends, and keep track of your favorite items.  
-Built with **React.js**, **Firebase Auth**, and external APIs for real-time price updates.
 
-🔗 [Visit the app](https://poke-track.netlify.app/)
+🔗 [My portfolio](https://maxime-huynh.kodanalab.fr/fr)
+🔗 [Animal shelter](https://refugedecastillon.kodanalab.fr/)
+🔗 [pokemon app](https://poketrack.kodanalab.fr/)
+🔗 [Snake game](https://snake-3310.netlify.app/)
 
 ---
 
