@@ -1,6 +1,6 @@
-# 👨‍💻 Maxime – Full Stack Developer 
+# 👨‍💻 Kødana – Full Stack Developer 
 
-Hi there! I'm **Maxime**, a **Full Stack Developer** with 3 years of experience, specialized in **Typescript**.
+Hi there! I'm **Kodana**, a **Full Stack Developer** with 3 years of experience, specialized in **Typescript**.
 
 
 ### 👨‍💻 Development
